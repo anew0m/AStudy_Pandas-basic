@@ -16,6 +16,11 @@
   - https://dataitgirls2.github.io/10minutes2pandas/
 * Pandas cheat sheet
   - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+* Pandas Expanding and Rolling
+  - https://pandas.pydata.org/pandas-docs/stable/user_guide/computation.html
+  - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.expanding.html
+  - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.rolling.html
+
 * 강좌 
   * https://www.inflearn.com/course/%ED%8C%90%EB%8B%A4%EC%8A%A4-Pandas/dashboard
 
